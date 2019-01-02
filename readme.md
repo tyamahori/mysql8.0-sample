@@ -1,7 +1,7 @@
 # MySQLサンプル
 
 ## 目的
-tyamahoriがMySQL8.0をまなぶために作成したもの。
+tyamahoriがMySQL8.0をまなぶために作成したもの。
 
 ## 使い方
 1. `docker-compose up` を叩く
